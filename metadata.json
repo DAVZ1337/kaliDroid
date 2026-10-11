@@ -1,0 +1,6 @@
+{
+  "name": "KaliDroid - CyberLab Simulator",
+  "description": "Plataforma interactiva para aprender ciberseguridad en Android con terminales Kali Linux/PowerShell hiperrealistas, analizador Wireshark y navegador de auditoría web.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
